@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -34,7 +34,7 @@
 
 ## 📜 Certification
 
-![Data Science and Business Analytics](https://img.shields.io/badge/Google%20Certified-Data%20Analyst-blue?style=for-the-badge&logo=google)
+![Data Science and Business Analytics](https://img.shields.io/badge/GreatLakes%20Certified-Data%20Analyst-blue?style=for-the-badge&logo=greatlakes)
 
 ---
 

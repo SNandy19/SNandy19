@@ -34,7 +34,7 @@
 
 ## 📜 Certification
 
-![Google Data Analytics](https://img.shields.io/badge/Google%20Certified-Data%20Analyst-blue?style=for-the-badge&logo=google)
+![Data Science and Business Analytics](https://img.shields.io/badge/Google%20Certified-Data%20Analyst-blue?style=for-the-badge&logo=google)
 
 ---
 
@@ -44,7 +44,7 @@
 - Business-focused dashboards  
 - Data cleaning & transformation  
 - Stakeholder-ready insights  
-- Domain-driven analytics (E-commerce, Operations, CRM)
+- Domain-driven analytics[Marketing]
 
 ---
 

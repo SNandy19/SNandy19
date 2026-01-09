@@ -1,6 +1,8 @@
 <h1  align="center">👋Hey, I'm Sharmistha N. </h1>
 
-<h3 align="center">Data Science and Business Analytics certified</h3>
+<p align="center">
+   <b>✨ Great Lakes and University of Texas Certified Data Analyst ✨</b> 
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINK">

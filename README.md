@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Sharmistha N. 👋</h1>
 
-<h3 align="center">Google Certified Data Analyst</h3>
+<h3 align="center">Data Science and Business Analytics certified</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINK">

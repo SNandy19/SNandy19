@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Saswati 👋</h1>
+<h1 align="center">Hey, I'm Sharmistha N. 👋</h1>
 
 <h3 align="center">Google Certified Data Analyst</h3>
 
@@ -28,7 +28,7 @@
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+![Tableau](https://img.shields.io/badge/Google_Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 
 ---
 

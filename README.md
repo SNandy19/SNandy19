@@ -17,7 +17,7 @@
 
 | Company | Role | Duration | Tools |
 |-------|------|----------|-------|
-| BWR | Sep 2023 – Jan 2025 | Advanced Excel, MySQL, Python, Power BI, Tableau |
+| BWR | Data Analyst | Sep 2023 – Jan 2025 | Advanced Excel, MySQL, Python, Power BI, Tableau |
 | Talent Box | Content Analyst | Aug 2013 – Sep 2019 | Excel, PowerPoint |
 
 ---
